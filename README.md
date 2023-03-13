@@ -1,0 +1,1 @@
+# react-rspack-typescript-admin
